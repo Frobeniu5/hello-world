@@ -20,12 +20,12 @@ Note: You can download for free the last version imageJ at the official reposito
 The input image for the Islet_He macro is the acquired image in bright phase with a camera. In the example showed below, i used a Zeiss Axioskop 2 microscope with a coupled digital camera Nikon DS-Vi1 (https://www.nikoninstruments.com/en_EU/Products/Cameras/Camera-Heads/DS-Vi1). 
 
 <p align="center">
-  <img src=https://github.com/adrianvillalba/Islet_HE/blob/master/Input.tif width="750"/>
+  <img src=https://github.com/adrianvillalba/Islet_HE/blob/master/Input.jpg width="750"/>
 </p>
 
 The output image is the corrected image with contrast/brightness adjusted and a gamma function applied to avoid the acquisition loss of transmitted light by the camera.
 
 <p align="center">
-  <img src=https://github.com/adrianvillalba/Islet_HE/blob/master/Output.tif width="750"/>
+  <img src=https://github.com/adrianvillalba/Islet_HE/blob/master/Output.jpg width="750"/>
 </p>
 
