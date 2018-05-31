@@ -13,7 +13,7 @@ Note: You can download for free the last version imageJ at the official reposito
 </p>
 2.3 Finally you can run the macro by **Plugins>Macro>Run** and selecting the .txt file where the macro code is located. 
 <p align="center">
-  <img src=https://github.com/adrianvillalba/Islet_HE/blob/master/Images/2.1.png width="600"/>
+  <img src=https://github.com/adrianvillalba/Islet_HE/blob/master/Images/2.1.png width="400"/>
 </p>
 
 ## **3. Results.** 
