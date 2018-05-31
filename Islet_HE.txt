@@ -1,0 +1,7 @@
+run("Subtract Background...", "rolling=50 light");
+run("Unsharp Mask...", "radius=2 mask=0.60");
+run("Gamma...", "value=0.95");
+run("Color Balance...");
+setMinAndMax(0, 200, 4);
+call("ij.ImagePlus.setDefault16bitRange", 8);
+run("Close");
