@@ -9,7 +9,7 @@ Note: You can download for free the last version imageJ at the official reposito
 2.1 You need to download directly the macro file (i.e. Islet_HE) or copy-paste the code in a .txt file. 
 2.2 Then you have to run imageJ and open the image you want to apply the macro by **File>Open** and selecting the desired image.
 <p align="center">
-  <img src=https://github.com/adrianvillalba/Islet_HE/blob/master/2.0.png width="750"/>
+  <img src=https://github.com/adrianvillalba/Islet_HE/blob/master/2.0.png width="600"/>
 </p>
 2.3 Finally you can run the macro by **Plugins>Macro>Run** and selecting the .txt file where the macro code is located. 
 <p align="center">
@@ -20,7 +20,7 @@ Note: You can download for free the last version imageJ at the official reposito
 The input image for the Islet_He macro is the acquired image in bright phase with a camera. In the example showed below, i used a Zeiss Axioskop 2 microscope with a coupled digital camera Nikon DS-Vi1 (https://www.nikoninstruments.com/en_EU/Products/Cameras/Camera-Heads/DS-Vi1). 
 
 <p align="center">
-  <img src=https://github.com/adrianvillalba/Islet_HE/blob/master/Input.jpg width="600"/>
+  <img src=https://github.com/adrianvillalba/Islet_HE/blob/master/Input.jpg width="350"/>
 </p>
 
 The output image is the corrected image with contrast/brightness adjusted and a gamma function applied to avoid the acquisition loss of transmitted light by the camera.
