@@ -9,7 +9,7 @@ Note: You can download for free the last version imageJ at the official reposito
 2.1 You need to download directly the macro file (i.e. Islet_HE) or copy-paste the code in a .txt file. 
 2.2 Then you have to run imageJ and open the image you want to apply the macro by **File>Open** and selecting the desired image.
 <p align="center">
-  <img src=https://github.com/adrianvillalba/Islet_HE/blob/master/Images/Captura.png width="600"/>
+  <img src=https://github.com/adrianvillalba/Islet_HE/blob/master/Images/Captura.PNG width="600"/>
 </p>
 2.3 Finally you can run the macro by **Plugins>Macro>Run** and selecting the .txt file where the macro code is located. 
 <p align="center">
